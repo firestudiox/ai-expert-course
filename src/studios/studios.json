@@ -1,0 +1,19 @@
+{
+    "studios": [
+        {
+            "id": "v1",
+            "name": "RL Theory",
+            "desc": "RL 이론의 진화 과정=문제해결의 과정"
+        },
+        {
+            "id": "v2",
+            "name": "Studio#v2",
+            "desc": "Studio v2 sescription"
+        },
+        {
+            "id": "V3",
+            "name": "Studio#V3",
+            "desc": "Studio v2 sescription"
+        }
+    ]
+}
